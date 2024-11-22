@@ -15,6 +15,8 @@ module_names = [
     'shape_key_normalize',
     'shape_key_presets',
     'shape_key_select',
+    'shape_key_clean',
+    'shape_key_clean_all',
     'vertex_color_mapping',
     'vertex_group_bleed',
     'vertex_group_create_mirrored',
